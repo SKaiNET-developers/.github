@@ -1,7 +1,6 @@
 # SKaiNET
 
-SKaiNET is an open-source Kotlin-based developer-oriented machine learning framework built with a device-first philosophy, have a look on GitHub.
-Discover SKaiNET goals
+SKaiNET is an open-source Kotlin-based developer-oriented machine learning framework built with a device-first philosophy
 
 * Built entirely in Kotlin for a seamless developer experience.
 * Focus on exceptional efficiency and remarkable portability as standout features.

@@ -1,6 +1,10 @@
 # SKaiNET
 
-SKaiNET is an open-source, Kotlin-based, developer-oriented machine learning framework built with a **device-first** prototyping philosophy.
+SKaiNET is an open-source multiplatform AI framework that helps developers build apps with local, **on-device AI** — without having to choose between developer simplicity and native performance.
+
+It is built around a device-first prototyping philosophy: developers should be able to experiment directly on the devices where their AI experiences will actually run, using real hardware constraints, local execution, and platform-native capabilities from the start.
+
+SKaiNET gives developers a clean, practical way to work with data, neural networks, tooling, and compilation across platforms, while aiming for performance close to the hardware. The goal is not just to run AI locally, but to make local AI development accessible, portable, and fast enough for real-world apps.
 
 * Built entirely in Kotlin for a seamless developer experience
 * Focused on exceptional efficiency and strong portability
@@ -9,11 +13,3 @@ SKaiNET is an open-source, Kotlin-based, developer-oriented machine learning fra
 * Designed to empower software developers, not only data science specialists
 * Balances power, flexibility, and accessibility for next-generation ML development
 
-> [!IMPORTANT]
-> **About the name**
->
-> “SKaiNET” is a **working project name** chosen early in the project’s life as part of a personal learning and experimentation effort, before any trademark considerations were known.
->
-> The name is **not intended to reference, infringe, or imply association with any existing trademarks, companies, or products**. It is not a commercial brand and is **not claimed or assignable** to any company or organization that contributors may be affiliated with.
->
-> If a naming conflict arises, the project name may be changed in the future.

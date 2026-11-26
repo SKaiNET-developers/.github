@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="190" viewBox="0 0 400 190">
+  <rect x="1" y="1" width="398" height="188" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="28" y="52" font-size="28" font-family="'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif">🧠</text>
+  <text x="28" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#1f2328">SKaiNET <tspan fill="#656d76" font-weight="400">↗</tspan></text>
+  <text x="28" y="116" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#656d76">Core AI engine</text>
+  <text x="28" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#424a53">Tensors, neural networks, compilation and<tspan x="28" dy="21">native execution.</tspan></text>
+</svg>
